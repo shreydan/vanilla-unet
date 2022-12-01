@@ -16,4 +16,4 @@ Note: I used centre-crop for the cropping required in the paper.
 
 ## Architecture
 
-![U-Net Architecture](./architecture.png)
+![U-Net Architecture](architecture.png)
